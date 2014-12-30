@@ -8,4 +8,10 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick.
 i have get new git clone.
 and i will got a new world
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+
+
+creating a new branch is quick and simple
+>>>>>>> feature1
