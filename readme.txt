@@ -17,3 +17,4 @@ creating a new branch is quick and simple
 >>>>>>> feature1
 
 a new show to binding the fast-merge
+save the stash
